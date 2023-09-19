@@ -1,0 +1,16 @@
+{
+  "name": "CF-Blog",
+  "version": "1.0.0",
+  "description": "BFNet Blog",
+  "main": "README.md",
+  "author": "Steve Brown",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.9.10"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  }
+}
